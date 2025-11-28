@@ -1,7 +1,8 @@
 {
   "general":{
-  "name": "My Mihon Repo",
-  "id": "mihon-extensions",
+   "name": "My Mihon Repo",
+   "id": "mihon-extensions",[
+    "version": 1
   },
   "config":{
     "baseUrl": "https://aipractitioner111-boop.githun.io/mihon-extensions/"
